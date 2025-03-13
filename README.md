@@ -3,10 +3,12 @@ This project explores the relationship between land use changes and temperature 
 
 Data Sources: Kaggle
 => Weather Data (1940-2023): https://www.kaggle.com/datasets/samithsachidanandan/average-monthly-surface-temperature-1940-2024
+
 => Land Use Data: https://www.kaggle.com/datasets/willianoliveiragibin/agriculture-is-a-major
 
 The analysis is focused on six major agricultural countries:
-🇺🇸 United States, 🇮🇳 India, 🇨🇳 China, 🇷🇺 Russia, 🇧🇷 Brazil, 🇦🇺 Australia.
+                          🇺🇸 United States, 🇮🇳 India, 🇨🇳 China, 🇷🇺 Russia, 🇧🇷 Brazil, 🇦🇺 Australia.
+
 
 This project showcases my Excel data analysis skills, including data cleaning, pivot tables, and visualization techniques.
 
